@@ -1,3 +1,5 @@
+// First The Older Version!
+
 import { ExponentialCost, FreeCost, LinearCost } from "./api/Costs";
 import { Localization } from "./api/Localization";
 import { BigNumber } from "./api/BigNumber";
@@ -6,7 +8,7 @@ import { Utils } from "./api/Utils";
 
 var id = "theory";
 var name = "Boost Theory";
-var description = "copyied to rus9834, based for https://glitch.com";
+var description = "i here.";
 var authors = "Glitch";
 var version = 1;
 
